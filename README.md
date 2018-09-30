@@ -11,8 +11,8 @@ sudo apt install tidy
 ### Make the script executable
 ```sh
 chmod +x html2xml.sh
-```sh
 ```
 ### Run it
+```sh
 ./html2xml input-file.html > output-file.xml
 ```
