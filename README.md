@@ -10,7 +10,7 @@ sudo apt install tidy
 ```
 ### Make the script executable
 ```sh
-chmod +x html2xml.sh
+chmod +x html2xml
 ```
 ### Run it
 ```sh
